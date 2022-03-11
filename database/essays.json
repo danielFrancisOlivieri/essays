@@ -1,0 +1,41 @@
+{
+    "authors": [ {
+    "author": "montaigne",
+    "authorDisplayName": "Michel de Montaigne",
+    "authorBio": "He is known for popularizing the essay as a literary genre. His work is noted for its merging of casual anecdotes and autobiography with intellectual insight.",
+    "authorListOfEssays": ["Use Makes Perfect", "Of Liars"],
+    "essays": [{
+        "title": "Use Makes Perfect",
+        "title_slug": "use_makes_perfect",
+        "text": "Tis not to be expected that argument and instruction, though we never so voluntarily surrender our belief to what is read to us, should be of force to lead us on so far as to action, if we do not, over and above, exercise and form the soul by experience to the course for which we design it; it will, otherwise, doubtless find itself at a loss when it comes to the pinch of the business. This is the reason why those amongst the philosophers who were ambitious to attain to a greater excellence, were not contented to await the severities of fortune in the retirement and repose of their own habitations, lest he should have surprised them raw and inexpert in the combat, but sallied out to meet her, and purposely threw themselves into the proof of difficulties. Some of them abandoned riches to exercise themselves in a voluntary poverty; others sought out labour and an austerity of life, to inure them to hardships and inconveniences; others have deprived themselves of their dearest members, as of sight, and of the instruments of generation, lest their too delightful and effeminate service should soften and debauch the stability of their souls.",
+        "wordCount": 197
+    },
+    {
+        "title": "Of Liars",
+        "title_slug": "of_liars",
+        "text": "There is not a man living whom it would so little become to speak from memory as myself, for I have scarcely any at all, and do not think that the world has another so marvellously treacherous as mine. My other faculties are all sufficiently ordinary and mean; but in this I think myself very rare and singular, and deserving to be thought famous. Besides the natural inconvenience I suffer by it (for, certes, the necessary use of memory considered, Plato had reason when he called it a great and powerful goddess), in my country, when they would say a man has no sense, they say, such an one has no memory; and when I complain of the defect of mine, they do not believe me, and reprove me, as though I accused myself for a fool: not discerning the difference betwixt memory and understanding, which is to make matters still worse for me. But they do me wrong; for experience, rather, daily shows us, on the contrary, that a strong memory is commonly coupled with infirm judgment. They do, me, moreover (who am so perfect in nothing as in friendship), a great wrong in this, that they make the same words which accuse my infirmity, represent me for an ungrateful person; they bring my affections into question upon the account of my memory, and from a natural imperfection, make out a defect of conscience. “He has forgot,” says one, “this request, or that promise; he no more remembers his friends; he has forgot to say or do, or conceal such and such a thing, for my sake.” And, truly, I am apt enough to forget many things, but to neglect anything my friend has given me in charge, I never do it. And it should be enough, methinks, that I feel the misery and inconvenience of it, without branding me with malice, a vice so contrary to my humour.",
+        "wordCount": 359
+    }
+]
+},
+{
+    "author": "emerson",
+    "authorDisplayName": "Ralph Waldo Emerson",
+    "authorBio": "Waldo, was an American essayist, lecturer, philosopher, abolitionist, and poet who led the transcendentalist movement of the mid-19th century. He was seen as a champion of individualism and a prescient critic of the countervailing pressures of society, and his ideology was disseminated through dozens of published essays and more than 1,500 public lectures across the United States.",
+    "authorListOfEssays": ["Demonology", "Experience"],
+    "essays": [{
+        "title": "Demonology",
+        "title_slug": "demonology",
+        "text": "The name Demonology covers dreams, omens, coincidences, luck, sortilege, magic and other experiences which shun rather than court inquiry, and deserve notice chiefly because every man has usually in a lifetime two or three hints in this kind which are specially impressive to him. They also shed light on our structure. The witchcraft of sleep divides with truth the empire of our lives. This soft enchantress visits two children lying locked in each other’s arms, and carries them asunder by wide spaces of land and sea, and wide intervals of time",
+        "wordCount": 93
+    },
+    {
+        "title": "Experience",
+        "title_slug": "experience",
+        "text": "Where do we find ourselves? In a series of which we do not know the extremes, and believe that it has none. We wake and find ourselves on a stair; there are stairs below us, which we seem to have ascended; there are stairs above us, many a one, which go upward and out of sight. But the Genius which, according to the old belief, stands at the door by which we enter, and gives us the lethe to drink, that we may tell no tales, mixed the cup too strongly, and we cannot shake off the lethargy now at noonday. Sleep lingers all our lifetime about our eyes, as night hovers all day in the boughs of the fir-tree. All things swim and glitter. Our life is not so much threatened as our perception. Ghostlike we glide through nature, and should not know our place again. Did our birth fall in some fit of indigence and frugality in nature, that she was so sparing of her fire and so liberal of her earth, that it appears to us that we lack the affirmative principle, and though we have health and reason, yet we have no superfluity of spirit for new creation? We have enough to live and bring the year about, but not an ounce to impart or to invest. Ah that our Genius were a little more of a genius! We are like millers on the lower levels of a stream, when the factories above them have exhausted the water. We too fancy that the upper people must have raised their dams.",
+        "wordCount": 259
+    }
+]
+}
+]
+}
